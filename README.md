@@ -10,6 +10,10 @@ Welcome to Project: Pythonic! This project serves as a learning resource for beg
 - Interactive code snippets demonstrating various Python concepts.
 - Practice exercises to reinforce learning.
 - An opportunity for contributors to add new features, improve existing content, or fix issues.
+- Addition of two numbers with user input.
+- Arithmetic operations: addition, subtraction, division.
+- Conversion of division results to integers.
+- Quiz section where users can input answers to arithmetic questions and check correctness.
 
 ## Getting Started
 
